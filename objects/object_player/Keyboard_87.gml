@@ -36,4 +36,14 @@ if (!(l02222CDE_0 > 0))
 	/// @DnDSaveInfo : "spriteind" "a582e1c2-2af6-4c57-a5fe-b3127caf363b"
 	sprite_index = sprite_player_climb;
 	image_index = image_index;
+
+	/// @DnDAction : YoYo Games.Collisions.If_Object_At
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 45736417
+	/// @DnDParent : 02222CDE
+	var l45736417_0 = instance_place(0, 0, noone);
+	if ((l45736417_0 > 0))
+	{
+	
+	}
 }
